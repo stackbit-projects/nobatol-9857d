@@ -1,0 +1,96 @@
+{
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "CMS",
+                "new_window": true,
+                "style": "button",
+                "type": "action",
+                "url": "https://nobatol-9857d.sanity.studio"
+            },
+            {
+                "label": "Home",
+                "style": "link",
+                "type": "action",
+                "url": "/"
+            },
+            {
+                "label": "Portfolio",
+                "style": "link",
+                "type": "action",
+                "url": "/portfolio/"
+            },
+            {
+                "label": "Blog",
+                "new_window": false,
+                "style": "button",
+                "type": "action",
+                "url": "/blog/"
+            },
+            {
+                "label": "Style Guide",
+                "style": "link",
+                "type": "action",
+                "url": "/style-guide/"
+            },
+            {
+                "label": "About",
+                "style": "link",
+                "type": "action",
+                "url": "/about/"
+            },
+            {
+                "label": "Contact",
+                "style": "link",
+                "type": "action",
+                "url": "/contact/"
+            }
+        ],
+        "title": "Nobatol",
+        "type": "header"
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "has_social": true,
+        "social_links": [
+            {
+                "icon": "twitter",
+                "label": "Twitter",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://twitter.com/"
+            },
+            {
+                "icon": "instagram",
+                "label": "Instagram",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://www.instagram.com/"
+            },
+            {
+                "icon": "dribbble",
+                "label": "Dribbble",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://dribbble.com/"
+            },
+            {
+                "icon": "linkedin",
+                "label": "LinkedIn",
+                "new_window": true,
+                "style": "icon",
+                "type": "action",
+                "url": "https://www.linkedin.com/"
+            }
+        ],
+        "type": "footer"
+    },
+    "title": "NOBATOL",
+    "domain": "https://nobatol-9857d.netlify.app"
+}
